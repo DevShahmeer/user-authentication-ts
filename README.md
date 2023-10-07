@@ -13,8 +13,7 @@ This is a simple TypeScript example demonstrating user authentication using func
 ## Files
 
 - `index.ts`: The main TypeScript file containing the authentication logic and usage examples.
-- `tsconfig.json`: TypeScript configuration file.
-
+  
 ## Setup and Usage
 
 1. Clone the repository or download the files.
